@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR3ed075/jc/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 補遺參蘇飲局方治感冒風寒咳嗽吐痰涕唾稠黏胸膈滿悶寒熱往來或頭痛惡寒脈弱無汗人參蘇葉乾葛前胡陳皮枳殼茯苓半夏各八分桔梗木香甘草各五分生薑五片大棗一枚上水煎熱服取汗葉仲堅曰此少陽中風而寒濕內著之證也仲景於表劑不用人參惟少陽寒熱往來雖有口苦咽乾目眩之相火亦用人參以固中氣此咳嗽聲重痰涎稠黏涕唾交流五液無主寒濕稽留於胸脅中氣不固可知矣故以人參為君然非風寒之外邪來侮則寒熱不發而痰涎不遽生故輔以紫蘇乾葛凡正氣虛者邪氣必盛故胸膈滿悶輔以陳皮枳殼少佐木香以降之痰涎壅盛於心下非辛燥不除故用茯苓半夏少佐桔梗以開之病高者宜下故不取柴胡之升而任前胡之降欲解表者必調和營衛欲清內者必顧及中宮此薑棗甘草之所必須也名之曰飲見少與緩服之義本方去人參前胡加川芎柴胡即芎蘇散則治頭痛發熱惡寒無汗之表劑矣香薷飲局方治暑月乘涼飲冷陽氣為陰邪所遏頭痛發熱惡寒煩躁口渴腹痛吐瀉者香薷厚朴白扁豆炒水煎浸冷服葉仲堅曰飲與湯稍有別服有定數者名湯時時不拘者名飲飲因渴而設用之於溫暑則最宜者也然胃惡燥脾惡濕多飲傷脾反致下利治之之法心下有水氣者發汗腹中有水氣者利小便然與其有水患而治之曷若先選其能汗能利者用之乎香薷芳香辛溫能發越陽氣有徹上徹下之功故治暑者君之以解表利小便佐厚朴以除濕扁豆和中合而為飲飲入於胃熱去而濕不留內外之暑證悉除矣若心煩口渴者去扁豆加黃連名黃連香薷飲加茯苓甘草名五物加木加參耆橘術名十味隨症加減盡香薷之用也然勞倦內傷必用清暑益氣內熱大渴必用人參白虎若用香薷是重虛其表而反濟以內熱矣香薷乃夏月解表之藥如冬月之麻黃氣虛者尤不可服今人不知暑傷元氣概用以代茶是開門揖盜也
+  hash: sha256:47ae91f2bc6e1652d47a1960576abdc6d121fea6215c6ea095da566dfeedf0f0
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ed075_jc_000-d8.h1s1}
+  - {type: 'tls:div-start', offset: 2, content: '', id: KR3ed075_jc_000-d8d2, level: 2, head_text: 參蘇飲}
+  - {type: 'tls:head', offset: 2, content: '', id: KR3ed075_jc_000-d8.d2.h1s1}
+  - {type: 'tls:div-end', offset: 335, content: '', id: KR3ed075_jc_000-d8d2}
+  - {type: 'tls:div-start', offset: 335, content: '', id: KR3ed075_jc_000-d8d3, level: 2, head_text: 香薷飲}
+  - {type: 'tls:head', offset: 335, content: '', id: KR3ed075_jc_000-d8.d3.h1s1}
+  - {type: 'tls:div-end', offset: 665, content: '', id: KR3ed075_jc_000-d8d3}
+metadata:
+  title: 古今名醫方論
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed075.xml
+hash: sha256:58f3ef4807dacd3edd0759ee1ceccccb962dcb7961ec5962651825ff758edb89
