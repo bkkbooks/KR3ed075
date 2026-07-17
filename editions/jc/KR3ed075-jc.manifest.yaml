@@ -24,12 +24,11 @@ assets:
   - {seq: 4, filename: KR3ed075_004-jc.yaml, hash: 'sha256:45826a1a11c4be82862d494fa3ee9d0efef98e6461b1dd69194afdfdaf2c0a8a'}
   - {seq: 0, filename: KR3ed075_000-jc.yaml, hash: 'sha256:58f3ef4807dacd3edd0759ee1ceccccb962dcb7961ec5962651825ff758edb89'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed075_000-jc.markers.yaml, hash: 'sha256:1e8eed3ebd472561ebab6dddeb26785920e41db229635920279db742e677f5ad'}
-  - {seq: 1, role: markers, filename: assets/KR3ed075_001-jc.markers.yaml, hash: 'sha256:d9acbadfe6af51b485d9b4bb4d846ce046108c432fed4cbf830c8bc8d5456d46'}
-  - {seq: 2, role: markers, filename: assets/KR3ed075_002-jc.markers.yaml, hash: 'sha256:4da19fe6c33095d9768ae6eed7fa472e478879904e634a5b6709a6596b16ffb1'}
-  - {seq: 3, role: markers, filename: assets/KR3ed075_003-jc.markers.yaml, hash: 'sha256:f673e7a72b8260b12c58e8008eb63fd8293cf87f64fade59365dec2ce79d8b85'}
-  - {seq: 4, role: markers, filename: assets/KR3ed075_004-jc.markers.yaml, hash: 'sha256:9a9722e7db0ab1dd345c3d67ce8278aea2e4c629f5e0228fb3ad15d5eab18d64'}
-  - {seq: 0, role: markers, filename: assets/KR3ed075_000-jc.markers.yaml, hash: 'sha256:1e8eed3ebd472561ebab6dddeb26785920e41db229635920279db742e677f5ad'}
+  - {seq: 0, role: markers, filename: assets/KR3ed075_000-jc.markers.yaml, hash: 'sha256:c16b03a1cfb3f10717381f006008106699f0dcdba5b5fb266c84207f10c61114'}
+  - {seq: 1, role: markers, filename: assets/KR3ed075_001-jc.markers.yaml, hash: 'sha256:89b328053eb17e531bc132b3f6f5e9eac59d30bfc502e5e4bfd1d54e2c85ef96'}
+  - {seq: 2, role: markers, filename: assets/KR3ed075_002-jc.markers.yaml, hash: 'sha256:bcfd6ab33c57aa3f64810a8e77568de22923b718d41a5f72943ef2e25b38a493'}
+  - {seq: 3, role: markers, filename: assets/KR3ed075_003-jc.markers.yaml, hash: 'sha256:1801ca8034d685bdc402ceb9ffb01f6935f8f537ed3f05feef946c3fe15e2256'}
+  - {seq: 4, role: markers, filename: assets/KR3ed075_004-jc.markers.yaml, hash: 'sha256:3d8276b8fb45a8a0120c2a960e2713b62d54a3d6abb7761e38df63954b53c58b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1801,4 +1800,4 @@ table_of_contents:
   label: 香薷飲
   type: section
   level: 2
-hash: sha256:f67781ae05a9e18f6c5d94ccc6d45780b0f6da0de4a9ffc6b57b97a2983ac9e5
+hash: sha256:b81e669431b403cbaf76c3634d98083eeeec0df44341af1e0c3f614597ea245f

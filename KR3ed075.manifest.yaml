@@ -24,12 +24,11 @@ assets:
   - {seq: 4, filename: KR3ed075_004.yaml, hash: 'sha256:cf7dbdd33a1dc543ce466745c9a9f68dbf1a16e2206aa561a912e9f4adfb4ce7'}
   - {seq: 0, filename: KR3ed075_000.yaml, hash: 'sha256:58f3ef4807dacd3edd0759ee1ceccccb962dcb7961ec5962651825ff758edb89'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed075_000.markers.yaml, hash: 'sha256:c92a82931bba20fb5293a0483e08d578912410f27ed16dbcedda42769f4abebe'}
-  - {seq: 1, role: markers, filename: assets/KR3ed075_001.markers.yaml, hash: 'sha256:61cdb5a9a6292c9d8da2e3776b0c98025dde5651839321fc04483c59ffadd098'}
-  - {seq: 2, role: markers, filename: assets/KR3ed075_002.markers.yaml, hash: 'sha256:e298f287d8d75b2bb228f667555b7d844608b3ca90f5d0a2e57b8700a4d43e18'}
-  - {seq: 3, role: markers, filename: assets/KR3ed075_003.markers.yaml, hash: 'sha256:c2b9a45b15054079e26d25fd7ed34bf48d235fccf7aab2f130992064c743f7f3'}
-  - {seq: 4, role: markers, filename: assets/KR3ed075_004.markers.yaml, hash: 'sha256:604bfbedb57f385e1412f050014fc3052ef921c6e003accb9974346608849697'}
-  - {seq: 0, role: markers, filename: assets/KR3ed075_000.markers.yaml, hash: 'sha256:c92a82931bba20fb5293a0483e08d578912410f27ed16dbcedda42769f4abebe'}
+  - {seq: 0, role: markers, filename: assets/KR3ed075_000.markers.yaml, hash: 'sha256:e941fc01c24d55ed141635751d68d69fd0a6cc9061421359e38d5f609ca8ae6d'}
+  - {seq: 1, role: markers, filename: assets/KR3ed075_001.markers.yaml, hash: 'sha256:6b7136c3cc2d9b54dc53886d4d11ba0a3cac513536db546c2cae89159e95c72d'}
+  - {seq: 2, role: markers, filename: assets/KR3ed075_002.markers.yaml, hash: 'sha256:0968a9b648a6e8bb43e2c96efe51c435fd29bdcc1594ffbed958dc52a5f63310'}
+  - {seq: 3, role: markers, filename: assets/KR3ed075_003.markers.yaml, hash: 'sha256:b7375f2243aa7087e4ca98e62abf082deda76637cb2a5be784662e4fc28b9924'}
+  - {seq: 4, role: markers, filename: assets/KR3ed075_004.markers.yaml, hash: 'sha256:26c8f6ae848c70993801198f82274733fe0721404be8c0ca994f03d44858b638'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1801,7 +1800,7 @@ table_of_contents:
   label: 香薷飲
   type: section
   level: 2
-hash: sha256:45b2d63c67bc02d3e398997462f25c232064adf44960ab8323b00eb72205574a
+hash: sha256:a7141eca8756778fe8f2312e430155ef833719c5f2aed25f3c45bdb3a2b83647
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
